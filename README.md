@@ -48,7 +48,7 @@ Make sure you have replaced `YOUR_API_KEY` with your actual Groq API key.
 ### Check Audio File Path
 Ensure that the audio file path is correct and the file is in a format supported by the Groq API.
 ### Check Groq API Docs
-Check the Groq API documentation for any usage limits or restrictions.
+Check the Groq API [documentation](https://console.groq.com/settings/limits)  for any usage limits or restrictions.
 
 ## License
 This script is released under the MIT License. See LICENSE.txt for details.
