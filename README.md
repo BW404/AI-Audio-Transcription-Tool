@@ -51,4 +51,4 @@ Ensure that the audio file path is correct and the file is in a format supported
 Check the Groq API [documentation](https://console.groq.com/settings/limits)  for any usage limits or restrictions.
 
 ## License
-This script is released under the MIT License. See LICENSE.txt for details.
+This script is released under the MIT License. See [LICENSE.txt](https://github.com/BW404/AI-Audio-Transcription-Tool/blob/main/License.txt) for details.
